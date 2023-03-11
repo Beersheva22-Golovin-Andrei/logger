@@ -1,0 +1,4 @@
+2023-03-11 23:06:22.336348 myLogger INFO: level - info. OK
+2023-03-11 23:06:22.360339800 myLogger INFO: level - info. OK
+2023-03-11 23:07:22.485137100 myLogger INFO: level - info. OK
+2023-03-11 23:07:22.513460900 myLogger INFO: level - info. OK
