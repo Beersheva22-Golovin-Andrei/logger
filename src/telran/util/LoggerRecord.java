@@ -3,7 +3,6 @@ package telran.util;
 import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
-import java.util.Formatter;
 
 public class LoggerRecord {
 
