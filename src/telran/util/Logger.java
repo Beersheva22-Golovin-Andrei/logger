@@ -54,7 +54,7 @@ public class Logger {
 	}
 	
 	private boolean checkLevel (Level settedLevel) {
-		return level==settedLevel;
+		return level.getPriority()>=settedLevel.getPriority();
 	}
 	
 	private LoggerRecord getRecord (Level level, String message) {
